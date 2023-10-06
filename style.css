@@ -1,20 +1,48 @@
-body{
-    background-color: #595f39;
-    font-family: 'Times New Roman', Times, serif;
+body {
+  background-color: #595f39;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
 }
 
-.main-box{
-    background-color: #1B1B1B;
+.main-box {
+  background-color: #1b1b1b;
+  padding: 10px;
+  width: auto;
+  border: 1px solid white;
 }
 
-h1, h2, h3, ul, li{
-    color: #C4C5BA;
+h1,
+h2,
+h3,
+ul,
+li {
+  color: rgb(255, 255, 255);
+}
+
+ul,
+li {
+  text-align: left;
 }
 
 p {
-    color: #E4E4DE;
+  color: #c0c0b7;
 }
 
-a{
-    text-decoration: none;
-} 
+a {
+  text-decoration: none;
+  text-align: left;
+}
+
+#return {
+  text-align: center;
+}
+
+#title-link {
+  text-align: center;
+}
+
+.recipes-box {
+  margin: 100px;
+  border: 1px solid white;
+  padding: 70px;;
+}
