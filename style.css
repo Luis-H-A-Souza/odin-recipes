@@ -38,17 +38,33 @@ p {
   text-align: center;
 }
 
-
+#recipe-link {
+  text-align: center;
+  margin-bottom: 100%;
+}
 a {
   text-decoration: none;
   text-align: left;
 }
 .recipes-box {
-  margin: 100px;
+  margin: 50px;
+  margin-left: 5%;
+  margin-right: 5%;
   border: 1px solid white;
   padding: 60px;
+  
 }
-#recipe-link {
-  text-align: center;
-  margin-bottom: 100%;
+
+.ingredient-box {
+  margin: 50px;
+  margin-left: 400px;
+  margin-right: 400px;
+  border: 1px solid white;
+  padding: 20px;
+  line-height: 35px;
+}
+
+.recipe-title-box {
+  margin-left: 15%;
+  margin-right: 15%;
 }
